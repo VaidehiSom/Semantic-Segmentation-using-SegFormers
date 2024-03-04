@@ -7,4 +7,4 @@ Python, Transformers, ResNet-50 Results/Code
 
 ## Result
 
-![Result](output_deepsort.gif)
+![Result](segformers.gif)
