@@ -1,5 +1,7 @@
 # Semantic Segmentation using SegFormers
-Python, Transformers, ResNet-50 Results/Code
+![segformer_architecture](images/segformer_architecture.png)
+
+Python, Transformers, ResNet-50
 
 • Implemented Segformers, integrating Efficient Self-Attention, Mix-FFN, Overlap Patch embedding, and Dice loss
 
@@ -8,3 +10,6 @@ Python, Transformers, ResNet-50 Results/Code
 ## Result
 
 ![Result](segformers.gif)
+
+### Train Validation loss curve
+![loss_curve](images/train_val_loss.png)
